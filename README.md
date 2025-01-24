@@ -8,7 +8,8 @@ regional trends, gender statistics, and more,
 providing a clear and visually appealing summary of the dataset.
 
 **Tools:**
-Microsoft Excel: Visualization and Data Cleaning
-Pivot Table: Data analysis
+Microsoft Excel for Visualization and Data Cleaning
+
+Pivot Table for Data analysis
 
 https://1drv.ms/x/c/dcde232b97792699/EZVlQ9BM27RJvjmhIz7TsmgByopS3sky-P4sQr2x3ajPdA
