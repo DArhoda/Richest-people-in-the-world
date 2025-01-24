@@ -2,8 +2,8 @@
 
 **Project Description**
 This project involves creating an interactive 
-dashboard using Microsoft Excel to analyze data
-on the world's richest individuals.
+dashboard using Microsoft Excel to analyze
+data on the world's richest individuals.
 The dashboard offers insights 
 into their wealth distribution, 
 regional trends, gender statistics, 
